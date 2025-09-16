@@ -3,7 +3,7 @@
 ## Intro
 Hello, welcome to my portfolio!
 
-My name is Datsun! I have been scripting, building, and pretty much everything else on Roblox for the past 5 years. I am fluent in Lua and my spoken Langauge is English. My current time zone is PST but I switch to EST every now and again. I specialize in combat systems, UI, and mission systems. The projects listed below are not everything I am able to do as I am a highly adaptable scripter and I am able to learn how to do something quickly, they are what I think is some of my best work.
+My name is Datsun! I have been scripting, building, and pretty much everything else on Roblox for the past 5 years. I am fluent in Lua and my spoken Langauge is English. My current time zone is PST but I switch to EST every now and again. I specialize in combat systems, UI, and mission systems. The projects listed below are not everything I am able to do as I am a highly adaptable scripter and able to learn quickly, they are what I think is some of my best work as well as being the most recent.
 
 I am currently open to commissions so please feel free to contact me on Discord at: .dtsn
 
